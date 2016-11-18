@@ -3,7 +3,7 @@
 echo '''
 Copyright (C) 2016 Sminq India Solutions Pvt Ltd.
 Created on 2016-10-05
-Updated on 2016-10-05
+Updated on 2016-10-07
 
  ____    __  __   ___   _   _    ___
 / ___|  |  \/  | |_ _| | \ | |  / _ \
@@ -16,7 +16,7 @@ ___) |  | |  | |  | |  | |\  | | |_| |
 '''
 
 echo "================================="
-echo "Sminq Business App v2.0.11 ..."
+echo "Sminq Business App v2.0.12 ..."
 echo "Running Test Suite v1.0.1 ..."
 echo "================================="
 
