@@ -3,7 +3,7 @@
 echo '''
 Copyright (C) 2016 Sminq India Solutions Pvt Ltd.
 Created on 2016-10-05
-Updated on 2016-11-18
+Updated on 2016-11-21
 
  ____    __  __   ___   _   _    ___
 / ___|  |  \/  | |_ _| | \ | |  / _ \
@@ -42,7 +42,7 @@ do
 
     #Execute file
     python $fname
-    total_count=$((total_count + 1))
+    # total_count=$((total_count + 1))
 
   done
 done
